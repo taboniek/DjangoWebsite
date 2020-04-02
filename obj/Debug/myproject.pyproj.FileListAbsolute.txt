@@ -1,2 +1,0 @@
-C:\Users\Jakub\Desktop\myproject\bin\Microsoft.PythonTools.WebRole.dll
-C:\Users\Jakub\Desktop\myproject\bin\wfastcgi.py
